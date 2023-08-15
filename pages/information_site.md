@@ -28,6 +28,6 @@ description: Mis datos más relevantes
 * Lectura
 
 ### ¿Quien Soy?
-Estudiante de cuarto año del Tecnológico de Costa Rica
+Estudiante de cuarto año del Instituto Tecnológico de Costa Rica
 
 ![yo](/yo.png)

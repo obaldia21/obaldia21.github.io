@@ -8,7 +8,7 @@ description: información abajo
 
 ### Link al curriculum
 
-[Enlace:](https://drive.google.com/drive/folders/1rd4WLIE1AlXIltbFB67h94LGaOCLMgAt)
+[Enlace](https://drive.google.com/file/d/1CN059DdEVvXvxLr2RS2yQtU0et_jjiih/view)
 
 
 
