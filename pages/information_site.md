@@ -27,7 +27,7 @@ description: Mis datos más relevantes
 * Tecnología y su aplicación en un ambiente ágil.
 * Lectura
 
-### CV
+### ¿Quien Soy?
 Estudiante de cuarto año del Tecnológico de Costa Rica
 
 ![yo](/yo.png)
